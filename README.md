@@ -1,1 +1,1 @@
-# CodeClauseInternship_recognize_handwritten_digits
+# Recognize_handwritten_digits
